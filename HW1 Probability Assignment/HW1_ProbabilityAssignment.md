@@ -7,15 +7,12 @@ Therefore, the probability of an employee approving and the probability of an em
 Hence, the probability of 25 out of 50 employees approving: $$C^{25}_{50} \times f\left(1;\frac{1}{2}\right)^{25} \times f\left(0;\frac{1}{2}\right)^{50-25} = 0.112275$$
 
 ## Question 1b
-We have $\left\{ \begin{array}{l}
-        np = 50 \times \dfrac{1}{2}=25 \geqslant 5\\
-        n(1-p) = 50 \times \dfrac{1}{2}=25 \geqslant 5
-        \end{array}\right. \Rightarrow$ Approximate the Bernoulli distribution to Binomial distribution.<br>
+We have $np = 50 \times \dfrac{1}{2}=25 \geqslant 5$ and $n(1-p) = 50 \times \dfrac{1}{2}=25 \geqslant 5$. Therefore, we approximate the Bernoulli distribution to Binomial distribution.<br>
 The mean is $\mu = np = 50 \times \frac{1}{2} = 25$<br>
 The variance is $\sigma = \sqrt{np(1-p)} = \sqrt{50 \times \frac{1}{2} \times \frac{1}{2}} = \dfrac{5\sqrt{2}}{2}$<br>
-The z-index of the probability: $z=\dfrac{X - \mu}{\sigma} = \dfrac{25 - 25}{\sigma} = 0$<br>
 Hence, apply this [value table](https://drive.google.com/file/d/1ar-RkujnTzlR9xVkBiMw5CtFtu_VQnWb/view?usp=sharing) learned from course **Probability & Statistics MATH 333**, the probability of 25 out of 50 employees approving:
-$$P(X=25)=P(24.5<X<25.5)=P\left(\dfrac{24.5-25}{ \frac{5\sqrt{2}}{2}} < X< \dfrac{25.5-25}{ \frac{5\sqrt{2}}{2}}\right)\\=P(-0.14<X<0.14)= P(X<0.14) - P(X\leqslant-0.14)\\=0.555760-0.444330=0.11143$$ 
+$$P(X = 25) = P(24.5 < X < 25.5) = P \left( \dfrac{24.5-25}{\frac{5\sqrt{2}}{2}} < X < \dfrac{25.5-25}{\frac{5\sqrt{2}}{2}}\right)=P(-0.14 < X < 0.14) =  P(X < 0.14) - P(X \leqslant - 0.14)$$
+$$= 0.555760 - 0.444330 = 0.11143$$
 *Compare to Question 1a, the two results are approximately equal.*<hr>
 
 ## Question 2
