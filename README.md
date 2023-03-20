@@ -9,6 +9,7 @@ Assignment | Name | Link |
 --- | --- | --- |
 1 | Probability Assignment | [link](https://github.com/2dtkingslayer/cs301-assignments/blob/main/HW1%20Probability%20Assignment/HW1_ProbabilityAssignment.md)|
 2 | Gaussian Maximum Likelihood | [link](https://github.com/2dtkingslayer/cs301-assignments/tree/main/HW2%20Gaussian%20Maximum%20Likelihood)|
+Midterm | Midterm | [link]()|
 3 | ... | [link]()|
 4 | ... | [link]()|
 5 | Graduate lol | [link]()|
