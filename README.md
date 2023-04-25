@@ -10,6 +10,7 @@ Assignment | Name | Link |
 1 | Probability Assignment | [link](https://github.com/2dtkingslayer/cs301-assignments/blob/main/HW1%20Probability%20Assignment/HW1_ProbabilityAssignment.md)|
 2 | Gaussian Maximum Likelihood | [link](https://github.com/2dtkingslayer/cs301-assignments/tree/main/HW2%20Gaussian%20Maximum%20Likelihood)|
 Midterm | Midterm | [link](https://github.com/2dtkingslayer/cs301-assignments/blob/main/Midterm/cs301-midterm.pdf)|
-3 | ... | [link]()|
-4 | ... | [link]()|
-5 | Graduate lol | [link]()|
+Project | Interpretable Gradient Boosting - Real Estate House Price Prediction | [link](https://github.com/2dtkingslayer/cs301-project)|
+3 | Simple Language Models Assignment | [link]()|
+Final | Final | [link]()|
+Hope I | Can Get | An A |
