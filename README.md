@@ -12,5 +12,5 @@ Assignment | Name | Link |
 Midterm | Midterm | [link](https://github.com/2dtkingslayer/cs301-assignments/blob/main/Midterm/cs301-midterm.pdf)|
 Project | Interpretable Gradient Boosting - Real Estate House Price Prediction | [link](https://github.com/2dtkingslayer/cs301-project)|
 3 | Simple Language Models Assignment | [link](https://github.com/2dtkingslayer/cs301-assignments/blob/main/HW3%20Simple%20Language%20Models/Simple_Language_Models_Assignment.ipynb)|
-Final | Final | [link]()|
+Final | Final | [link](https://github.com/2dtkingslayer/cs301-assignments/blob/main/Final/TruongDang_CS301_Final.pdf)|
 Hope I | Can Get | An A |
